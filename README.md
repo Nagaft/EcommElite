@@ -17,7 +17,6 @@ EcommElite is a backend application for managing an e-commerce platform. It uses
 - [Questions](#questions)
 - [Contact](#contact)
 
-Contact
 ## Installation
 
 1. Clone this repository.
