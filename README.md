@@ -41,17 +41,24 @@ This application does not have a frontend. To interact with it, tools like Postm
 ## API Endpoints
 
 Categories
+
 GET /api/categories - Retrieve all categories.
+
 GET /api/categories/:id - Retrieve a category by ID.
 POST /api/categories - Create a new category.
 PUT /api/categories/:id - Update a category by ID.
 DELETE /api/categories/:id - Delete a category by ID.
 
 Products
+
 GET /api/products - Retrieve all products.
+
 GET /api/products/:id - Retrieve a product by ID.
+
 POST /api/products - Create a new product.
+
 PUT /api/products/:id - Update a product by ID.
+
 DELETE /api/products/:id - Delete a product by ID.
 
 Tags
