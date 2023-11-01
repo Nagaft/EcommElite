@@ -29,9 +29,13 @@ EcommElite is a backend application for managing an e-commerce platform. It uses
 ## Technologies Used
 
 -Node.js
+
 -Express.js
+
 -Sequelize
+
 -MySQL
+
 
 ## Usage
 
@@ -45,9 +49,13 @@ Categories
 GET /api/categories - Retrieve all categories.
 
 GET /api/categories/:id - Retrieve a category by ID.
+
 POST /api/categories - Create a new category.
+
 PUT /api/categories/:id - Update a category by ID.
+
 DELETE /api/categories/:id - Delete a category by ID.
+
 
 Products
 
@@ -62,19 +70,31 @@ PUT /api/products/:id - Update a product by ID.
 DELETE /api/products/:id - Delete a product by ID.
 
 Tags
+
 GET /api/tags - Retrieve all tags.
+
 GET /api/tags/:id - Retrieve a tag by ID.
+
 POST /api/tags - Create a new tag.
+
 PUT /api/tags/:id - Update a tag by ID.
+
 DELETE /api/tags/:id - Delete a tag by ID.
 
 
+
 Product-Tags Relations
+
 GET /api/product-tags - Retrieve all product-tag relations.
+
 GET /api/product-tags/:id - Retrieve a product-tag relation by ID.
+
 POST /api/product-tags - Create a new product-tag relation.
+
 PUT /api/product-tags/:id - Update a product-tag relation by ID.
+
 DELETE /api/product-tags/:id - Delete a product-tag relation by ID.
+
 
 ## License
 
